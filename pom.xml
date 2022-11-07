@@ -13,7 +13,7 @@
 
     <groupId>io.github.spring-cyber</groupId>
     <artifactId>cyber-cloud-alibaba</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 
     <name>cyber-cloud-alibaba</name>
     <url>https://github.com/spring-cyber</url>
@@ -55,8 +55,8 @@
     </developers>
 
     <scm>
-        <tag>cyber-boot</tag>
-        <url>https://github.com/spring-cyber/cyber-cloud-alibabaa</url>
+        <tag>cyber-cloud-alibaba</tag>
+        <url>https://github.com/spring-cyber/cyber-cloud-alibaba</url>
         <connection>scm:git:https://github.com/spring-cyber/cyber-cloud-alibaba.git</connection>
         <developerConnection>scm:git:https://github.com/spring-cyber/cyber-cloud-alibaba.git</developerConnection>
     </scm>
